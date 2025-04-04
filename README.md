@@ -1,8 +1,8 @@
 
-##The Social Media Paradox 
+## The Social Media Paradox 
 #Predicting Social Media Application Usage and Its Impact on Mental and Physical Well-being.
 
-#🔍 Project Overview
+# 🔍 Project Overview
 This project aims to analyze user engagement based on dominant emotions using machine learning models. It involves:
 ✅ Data preprocessing (encoding categorical variables, handling missing values)
 ✅ Feature engineering (e.g., engagement metrics, total interaction score)
@@ -11,7 +11,7 @@ This project aims to analyze user engagement based on dominant emotions using ma
 ✅ Comparing multiple classifiers (Random Forest, SVM, Decision Tree, Gradient Boosting, etc.)
 ✅ Evaluating model performance using accuracy, F1-score, and confusion matrices
 
-#📂 Dataset
+# 📂 Dataset
 df_train: Training dataset used for model training
 
 df_test: Separate test dataset used for final evaluation
