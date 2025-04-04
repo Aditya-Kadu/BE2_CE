@@ -43,12 +43,8 @@ Optuna (for automated hyperparameter search)
 Performance evaluated on validation and test sets
 
 ## 📈 Results & Evaluation
-Best-performing model: RandomForest
+Best-performing model: RandomForest and XGBoost
 
-Achieved [Accuracy/F1-Score] on the test set
+Achieved accuracy of 12% on the test set
 
-Insights:
 
-Emotion [X] resulted in higher/lower engagement
-
-Users aged 18-24 engaged more/less than other groups
