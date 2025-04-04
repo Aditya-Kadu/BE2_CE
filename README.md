@@ -1,15 +1,15 @@
 
-# The Social Media Paradox 
+# The Social Media Paradox 📊
 ## Predicting Social Media Application Usage and Its Impact on Mental and Physical Well-being.
 
 ## 🔍 Project Overview
-This project aims to analyze user engagement based on dominant emotions using machine learning models. It involves:
-✅ Data preprocessing (encoding categorical variables, handling missing values)
-✅ Feature engineering (e.g., engagement metrics, total interaction score)
-✅ Oversampling with SMOTE for class imbalance handling
-✅ Hyperparameter tuning using GridSearchCV and Optuna
-✅ Comparing multiple classifiers (Random Forest, SVM, Decision Tree, Gradient Boosting, etc.)
-✅ Evaluating model performance using accuracy, F1-score, and confusion matrices
+This project aims to analyze user engagement based on dominant emotions using machine learning models. It involves:<br>
+✅ Data preprocessing (encoding categorical variables, handling missing values)<br>
+✅ Feature engineering (e.g., engagement metrics, total interaction score)<br>
+✅ Oversampling with SMOTE for class imbalance handling<br>
+✅ Hyperparameter tuning using GridSearchCV and Optuna<br>
+✅ Comparing multiple classifiers (Random Forest, SVM, Decision Tree, Gradient Boosting, etc.)<br>
+✅ Evaluating model performance using accuracy, F1-score, and confusion matrices<br>
 
 ## 📂 Dataset
 df_train: Training dataset used for model training
@@ -43,7 +43,7 @@ Optuna (for automated hyperparameter search)
 Performance evaluated on validation and test sets
 
 ## 📈 Results & Evaluation
-Best-performing model: [Model Name]
+Best-performing model: RandomForest
 
 Achieved [Accuracy/F1-Score] on the test set
 
