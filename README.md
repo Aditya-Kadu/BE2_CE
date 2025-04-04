@@ -28,11 +28,11 @@ Engineered Engagement_Received as the sum of likes, comments, and messages
 Addressed class imbalance using SMOTE
 
 ## 🤖 Model Training & Hyperparameter Tuning
-Machine Learning Models Used:
-✅ Random Forest
-✅ Gradient Boosting
-✅ Linear SVM
-✅ Decision Tree
+Machine Learning Models Used:<br>
+✅ Random Forest<br>
+✅ Gradient Boosting<br>
+✅ Linear SVM<br>
+✅ Decision Tree<br>
 
 Hyperparameter Optimization:
 
